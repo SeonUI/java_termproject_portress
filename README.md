@@ -1,4 +1,5 @@
 JAVA Term Project - FORTRESS
+It is Term Project for JAVA Programming Practice (SWE2023_42) in SKKU
 
 Made on Eclipse IDE
 
@@ -9,4 +10,4 @@ bullet.png
 Explosion.png
 Fortress.png
 
-If there is no such files, it will diplay defalut.png
+If there is no such files, it will display defalut.png
