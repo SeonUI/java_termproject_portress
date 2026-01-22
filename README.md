@@ -1,5 +1,5 @@
-JAVA Term Project - FORTRESS
-It is Term Project for JAVA Programming Practice (SWE2023_42) in SKKU
+#JAVA Term Project - FORTRESS
+It is Term Project for JAVA Programming Practice (SWE2023) in SKKU
 
 Made on Eclipse IDE
 
